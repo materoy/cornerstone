@@ -1,4 +1,4 @@
-baseURL = 'https://materoy.github.com/cornerstone/'
+baseURL = 'https://materoy.github.io/cornerstone/'
 languageCode = 'en-us'
 title = 'The Cornerstone of Internet'
 theme = 'ananke'

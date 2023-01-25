@@ -10,4 +10,4 @@ Welcome to my new reality.
 
 I hope you all are doing just fine and keeping away from glare.
 
-This is my 
+This is my cornerstone

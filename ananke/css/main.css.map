@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/cornerstone/Dev/cornerstone",
+	"sourceRoot": "/home/runner/work/cornerstone/cornerstone",
 	"sources": [
 		"ananke/css/main.css"
 	],

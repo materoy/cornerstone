@@ -39,7 +39,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "hello friend"
-      logoHomeLink = "/cornerstone/posts"
+      logoHomeLink = "/cornerstone"
     # or
     #
     # path = "/img/your-example-logo.svg"

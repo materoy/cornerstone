@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A cornerstone in the internet</title>
-    <link>http://localhost:1313/cornerstone/</link>
-    <description>Recent content on A cornerstone in the internet</description>
+    <title>Posts on A cornerstone in the internet</title>
+    <link>http://localhost:1313/cornerstone/posts/</link>
+    <description>Recent content in Posts on A cornerstone in the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2024 20:28:07 -0700</lastBuildDate><atom:link href="http://localhost:1313/cornerstone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2024 20:28:07 -0700</lastBuildDate><atom:link href="http://localhost:1313/cornerstone/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random</title>
       <link>http://localhost:1313/cornerstone/posts/random/</link>

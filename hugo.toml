@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://materoy.github.io/cornerstone/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'A cornerstone in the internet'
 theme = 'monochrome'

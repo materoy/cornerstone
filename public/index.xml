@@ -1,34 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>A cornerstone in the internet</title>
     <link>http://localhost:1313/cornerstone/</link>
     <description>Recent content on A cornerstone in the internet</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2024 20:28:07 -0700</lastBuildDate><atom:link href="http://localhost:1313/cornerstone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2024 09:33:41 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/cornerstone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust in Android App</title>
+      <link>http://localhost:1313/cornerstone/posts/rust-in-android-app/</link>
+      <pubDate>Sat, 31 Aug 2024 09:33:41 -0700</pubDate>
+      <guid>http://localhost:1313/cornerstone/posts/rust-in-android-app/</guid>
+      <description>&lt;h1 id=&#34;rust-in-android-app--how-&#34;&gt;Rust in android app ? How ?&lt;/h1&gt;
+&lt;p&gt;There isn&amp;rsquo;t much documentation about how to write na&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rust for the Uninitiated</title>
+      <link>http://localhost:1313/cornerstone/posts/rust-for-the-uninitiated/</link>
+      <pubDate>Wed, 21 Aug 2024 21:28:58 -0700</pubDate>
+      <guid>http://localhost:1313/cornerstone/posts/rust-for-the-uninitiated/</guid>
+      <description>&lt;h1 id=&#34;rust-for-the-uninitiated&#34;&gt;Rust for the Uninitiated&lt;/h1&gt;
+&lt;p&gt;You might have heard about a certain hypetrain, sorry &amp;ldquo;cult&amp;rdquo; called rust. No? Great allow me to introduce you to a very skill coveted form of instruction called The Rust Programming Language. Spoiler alert, it wasn&amp;rsquo;t named after Fe2O3 but a fungi, I don&amp;rsquo;t know either. Anyway Rust has been the language that was voted to most loved language 8 years consecutively at the time of this writting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On the Good Life</title>
+      <link>http://localhost:1313/cornerstone/posts/on-the-good-life/</link>
+      <pubDate>Tue, 20 Aug 2024 20:53:38 -0700</pubDate>
+      <guid>http://localhost:1313/cornerstone/posts/on-the-good-life/</guid>
+      <description>&lt;h1 id=&#34;on-the-good-life&#34;&gt;On the good life&lt;/h1&gt;
+&lt;p&gt;But what do you value in life? I it wealth, perhaps friends and family, maybe fame or is it your own happiness&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Random</title>
       <link>http://localhost:1313/cornerstone/posts/random/</link>
       <pubDate>Tue, 20 Aug 2024 20:28:07 -0700</pubDate>
-      
       <guid>http://localhost:1313/cornerstone/posts/random/</guid>
-      <description>On Chaos This is a short series where I try to digress as much as posible from one subject or train of thought.
-I write this as a means to concentrate my thoughts, it very random up there and a lot is given the shortest processing time possible the timer could allocate.
-Almost all of the times none is ever exhausted but most are shaked well enough.
-Greenland is actually smaller than the Democratic Republic of Congo, I know, what.</description>
+      <description>&lt;h3 id=&#34;on-chaos&#34;&gt;On Chaos&lt;/h3&gt;
+&lt;p&gt;This is a short series where I try to digress as much as posible from one subject or train of thought.&lt;/p&gt;
+&lt;p&gt;I write this as a means to concentrate my thoughts, it very random up there and a lot is given the shortest processing time possible the timer could allocate.&lt;/p&gt;
+&lt;p&gt;Almost all of the times none is ever exhausted but most are shaked well enough.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Introduction</title>
       <link>http://localhost:1313/cornerstone/posts/introduction/</link>
       <pubDate>Tue, 20 Aug 2024 20:24:37 -0700</pubDate>
-      
       <guid>http://localhost:1313/cornerstone/posts/introduction/</guid>
-      <description>Welcome to my blog and thanks for stopping by. This is where I write about random educative and entertaining content, related to phylosophy, psychology, programming, security and science.
-I&amp;rsquo;m certainly not the most qualified in the above mentioned fields but those are the ones that are the most fascinating to me and I want to share, my research on the same here.
-This is my way of reaching an audience, free from algorithmic manipulation, mass psychology and tracking.</description>
+      <description>&lt;p&gt;Welcome to my blog and thanks for stopping by. This is where I write about random educative and entertaining content, related to phylosophy, psychology, programming, security and science.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m certainly not the most qualified in the above mentioned fields but those are the ones that are the most fascinating to me and I want to share, my research on the same here.&lt;/p&gt;
+&lt;p&gt;This is my way of reaching an audience, free from algorithmic manipulation, mass psychology and tracking. If you are here then that means you want to be here.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
